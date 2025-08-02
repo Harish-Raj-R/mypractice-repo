@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  border-top: 2px solid green;
+  border-bottom: 2px solid green;
+}
+
+.column {
+  width: 30%;
+  border-left: 2px solid green;
+  padding-left: 10px;
+  text-align: left;
+}
